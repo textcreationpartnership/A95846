@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the most vvise and vvorthy speech made by Captain Ven, one of the Burgesses of the Parliament to the apprentises of London; who rose in Cheapside upon the combustion at Westminster on Wednesday last at night, December 29. 1641. As also the randevowes they had that night at the counter in Wood-streete. VVith a description of the estate of Ireland at this present time.</title>
+            <author>Venn, John, 1586-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95846</idno>
+            <idno type="STC">Wing V191</idno>
+            <idno type="STC">Thomason E181_21</idno>
+            <idno type="STC">ESTC R2794</idno>
+            <idno type="EEBO-CITATION">99872179</idno>
+            <idno type="PROQUEST">99872179</idno>
+            <idno type="VID">124603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124603)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the most vvise and vvorthy speech made by Captain Ven, one of the Burgesses of the Parliament to the apprentises of London; who rose in Cheapside upon the combustion at Westminster on Wednesday last at night, December 29. 1641. As also the randevowes they had that night at the counter in Wood-streete. VVith a description of the estate of Ireland at this present time.</title>
+                  <author>Venn, John, 1586-1650.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124603:1"/>
+            <pb facs="tcp:124603:1" rendition="simple:additions"/>
+            <p>A TRVE RELATION OF THE MOST VVISE AND VVORTHY SPEECH Made by Captain VEN, one of the Burgeſſes of the PARLIAMENT to the Apprentiſes of <hi>London;</hi> who roſe in <hi>Cheapſide</hi> upon the Combuſtion at <hi>Weſtminſter</hi> on Wedneſday laſt at night, <hi>De<g ref="char:EOLhyphen"/>cember</hi> the 29. 1641.</p>
+            <p>
+               <hi>AS ALSO</hi> The <hi>Randevowes</hi> they had that night at the Counter in <hi>Wood-ſtreete.</hi>
+            </p>
+            <p>
+               <hi>VVITH</hi> A Deſcription of the eſtate of <hi>Jreland</hi> at this preſent time.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. H.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:124603:2"/>
+            <pb n="1" facs="tcp:124603:2"/>
+            <head>CAPTAIN <hi>
+                  <g ref="char:V">Ʋ</g>EN</hi> HIS SPEECH TO THE APPRENTISES OF <hi>LONDON.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Apprentiſes waiting three dayes at the Parliament Houſe, without giving affront or ill Language to any; they did onely with a full Conſent, Cry downe Biſhops and Popiſh Lords.</p>
+            <p>But coming ſcattering home by ſlender Companies, were ſet upon by divers Cavi<g ref="char:EOLhyphen"/>liers, who did cut many, and miſuſed moſt with baſe Language, not onely Apprentiſes but men of good rank and qualitie (calling them Ram-headed Rogues) to the great diſparaging and diſhartning of them in their Trades and Callings; for by this meanes
+<pb n="2" facs="tcp:124603:3"/>many Tradeſmen have ſhut up Shops, and given over their Trades, becauſe they are ſo abuſed: And the adverſe party, Papiſts and their Adherents, greatly countenanced and incouraged; which makes them ſo bold and inſolent, that they care not what outrages they commit againſt honeſt men of good report, and the Kings loyall and good Subjects, and without ſome ſpeedy redreſſe, and ſuppreſſing of them by the good Lawes of the Land againſt ſuch as doe ſo inſolently fall upon the Kings Ma<g ref="char:EOLhyphen"/>jeſties Subjects without cauſe, there is like to be many thouſand lives ſpilt and taken away.</p>
+            <p>The Apprentiſes being many of them committed, and the other countenanced, made the Apprentiſes to ſwell in bloud, to the adventure of the loſſe of their lives, met on Wedneſday night laſt, to the number of two thouſand with Clubs, Swords, Hal<g ref="char:EOLhyphen"/>berts, and were reſolved to goe to the <hi>White Lion;</hi> and others cryed out, to my <hi>Lord Ma<g ref="char:EOLhyphen"/>jors:</hi> but by the providence of God, and the grave wiſdome of Captaine <hi>
+                  <g ref="char:V">Ʋ</g>en,</hi> they were
+<pb n="3" facs="tcp:124603:3"/>prevented by the grave Speech that follow<g ref="char:EOLhyphen"/>eth.</p>
+            <q>
+               <hi>Gent.</hi> Let me intreat you to be at peace and quietneſſe, and return every one to his own habitation, and you ſhall find we will be as readie to do any favour for you, and relieve you in any of your iuſt grievances, as you can or ſhall yourſelves, and as you ſhew your willingneſſe to us, ſo ſhall we with our lives be willing and readie to help you: therefore pray depart everie man to his own home in peace, that it may not be ſaid of you, they are rude and tumultuous, but that you may ſhew your ſelves to be diſcreet in all your affairs, to the advancing of the cauſe you have in hand; and refer the cauſe to us which will be readie to ſupport you to our powers in all that ſhall be iuſt.</q>
+            <p>Then ſome cried out, But what ſhould they do for the Brethren that were committed by my L. <hi>Maior,</hi> and at <hi>Weſtminſter,</hi> before they ſhall ſuffer we will ſpend all our lives. The Cap<g ref="char:EOLhyphen"/>tain made anſwer, That for thoſe that were committed at <hi>Weſtminſter,</hi> he and another was appointed by the Houſe to releaſe them
+<pb n="4" facs="tcp:124603:4"/>all, and we did ſo the ſame night before we came from <hi>Weſtminſter.</hi> And if my L. <hi>Maior</hi> hath committed any, I will warrant you, if you will be quiet, and take my word, they ſhall be releaſed evercie one. And as ſoon as I have refreſhed my ſelf, I will go to my L. <hi>Maior,</hi> and have them diſcharged; but do you by no means go, but return home: So they all cried, Home, home, home, with a mightie noiſe. Then the maior part went a<g ref="char:EOLhyphen"/>way, but ſome of them remained there which would not be ſatisfied, but went down to the Counter in <hi>Woodſtreet,</hi> where they were withſtood by the Officers there<g ref="char:EOLhyphen"/>to belonging, with ſwords and half pikes, but ſome ruſht in upon them, and got away one of the half pikes from one of them, and then went up into Cheape ſide again, but could not reſt ſatisfied, but down they went again, and the doore being ſhut againſt them, they broke it, and brake the win<g ref="char:EOLhyphen"/>dows. After this, the Keeper of the Counter let ſome of them come in, and ſearch for them in everie Ward, and queſtioned the pri<g ref="char:EOLhyphen"/>ſoners whether there was any or no, but
+<pb n="5" facs="tcp:124603:4"/>they found none there, And therefore went away.</p>
+            <p>There are many Volenteers agoing out, but it is to be feared, that there are many of them Papiſts, who will be more readie to help the Papiſts againſt the King, then the King againſt the Papiſts. But I hope the Lord will defeat their deſignes, and bring their evill waies upon their own heads, if there be any that ſeeks the deſtruction of this Land.</p>
+            <p>
+               <hi>Ireland</hi> is in a verie bad eſtate, and in much fear and trouble of the loſſe of <hi>Dublin,</hi> but there is yet hopes if there be but preſent help and aid againſt the Rebels, which is the de<g ref="char:EOLhyphen"/>ſire of all true Subiects, the going forward of the happie deſigne.</p>
+            <p>Thus Courteous Reader, you have had the full occurrant of the paſſages, and in what a miſerable eſtate we are brought unto by Papiſts and Atheiſts, who ſwarme like the frogs of <hi>Egypt</hi> over the whole Land, and not likely to be ſwept away, till the Lord in mercie to his people, ſweep them
+<pb n="6" facs="tcp:124603:5"/>into the Red ſea of their own blood, into the depth of which the Lord bring all the enemies of his Goſpel.</p>
+            <closer>
+               <salute>And ſo I ſalute you with kinde farewell.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
